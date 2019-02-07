@@ -80,7 +80,7 @@ def validate(bitcoin_address, decimal_prefixes=(0, 5)):
 
     Returns True if the address is valid, False if not.
 
-    >>> validate('1AGNa15ZQXAZUgFiqJ2i7Z2DPU2J6hW62i')
+    >>> validate('3NRMMiXxrRHmXUb7iXzCyo7GhkicDKZvCs')
     True
     >>> validate('')
     False
